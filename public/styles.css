@@ -17,7 +17,7 @@ body {
   position: fixed; 
   top: 0; 
   width: 100%; 
-  font-size:1vw
+ 
 }
 
 .navbar a {
@@ -27,13 +27,13 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration:none;
-  font-size:1vw
+
 }
 
 .navbar a:hover {
   background :rgb(241, 204, 129);
   color: black;
-  font-size:1vw
+  
 }
 
 .name{
@@ -41,7 +41,7 @@ body {
  margin-top: 30px;
  margin-left: 0%;
  margin-right: 0%;
- font-size:1vw
+ 
 }
 
 .name1{
@@ -49,7 +49,7 @@ body {
   margin-top: 80px;
   margin-left: 0%;
   margin-right: 0%;
-  font-size:1vw
+  
  }
  
 
@@ -61,7 +61,7 @@ body {
   width: 1400px;
   height:400px;
   margin: 10px 50px;
-  font-size:1vw
+  
 }
 
 .insidefirst{
@@ -69,14 +69,14 @@ body {
   height: 100%;
   background-color:white;
   float: left;
-  font-size:1vw
+ 
 }
  .insidefirst img {
   width:100%;
   height:100%;
   max-width :100%;
   max-height:100%;
-  font-size:1vw
+ 
 }
 
 .insidefirst2{
@@ -84,14 +84,14 @@ body {
   height: 100%;
   margin-left: 52%;
   margin-top:0px;
-  font-size:1vw
+  
 }
 
 .insidesecond{
   width: 50%;
   height: 100%;
   float: left;
-  font-size:1vw
+  
 }
 
 .insidesecond2{
@@ -100,7 +100,7 @@ body {
   margin-left: 52%;
   margin-top:0px;
   background-color:white;
-  font-size:1vw
+  
 }
 
 .insidesecond2 img {
@@ -108,7 +108,7 @@ body {
   height:100%;
   max-width :100%;
   max-height:100%;
-  font-size:1vw
+  
 }
 
 .third{
@@ -117,7 +117,7 @@ body {
   width: 1400px;
   height:400px;
   margin: 10px 50px;
-  font-size:1vw
+  
 }
 
 .insidethird{
@@ -126,7 +126,7 @@ body {
   height: 100%;
   float: left;
   background-color:rgb(241, 204, 129);
-  font-size:1vw
+  
 }
 
 .insidethird2{
@@ -137,7 +137,7 @@ body {
   margin-top:0px;
   background-color:rgb(241, 204, 129);
   float:left;
-  font-size:1vw
+  
 }
 
 .insidethird3{
@@ -147,7 +147,7 @@ body {
   margin-left: 70%;
   margin-top:0px;
   background-color:rgb(241, 204, 129);
-  font-size:1vw
+  
 }
 
 .fourth{
@@ -157,14 +157,14 @@ body {
   border-radius: 5px;
   padding: 30px 20px;
   margin: 10px 50px;
-  font-size:1vw
+ 
 }
 .insidefourth{
   background-color:white;
   width: 99%;
   height: 100%;
   margin-top:5px;
-  font-size:1vw
+  
 }
 
 .insidefifth{
@@ -173,7 +173,7 @@ body {
   height: 100%;
   float: left;
   background-color:rgb(241, 204, 129);
-  font-size:1vw
+  
 }
 
 .insidefifth2{
@@ -184,7 +184,7 @@ body {
   margin-top:0px;
   background-color:rgb(241, 204, 129);
   float:left;
-  font-size:1vw
+  
 }
 
 .insidefifth3{
@@ -194,7 +194,7 @@ body {
   margin-left: 72%;
   margin-top:0px;
   background-color:rgb(241, 204, 129);
-  font-size:1vw
+  
 }
 
 .insidefifth img {

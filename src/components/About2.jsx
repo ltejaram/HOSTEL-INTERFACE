@@ -4,7 +4,7 @@ function About2(){
     return (
     <div className="first">
          <div className="insidesecond">
-             <table cellSpacing="10px">
+             <table cellSpacing="15px">
                  <tr>
                      <th>MESS</th>
                      <th>BATMINTON COURT</th>
@@ -14,6 +14,16 @@ function About2(){
                      <th><p>This is for C hostel students</p></th>
                      <th><p>Its very important for good health</p></th>
                      <th><p>Everyone Should do this</p></th>
+                 </tr>
+                 <tr>
+                     <th>OPEN :7AM TO 9AM <br/> 12PM TO 2PM <br/> 7PM TO 9PM</th>
+                     <th>OPEN TILL 12PM</th>
+                     <th>OPEN TILL 12PM</th>
+                 </tr>
+                 <tr>
+                     <th>RUPEES 120 PER DAY</th>
+                     <th>FREE OF COST</th>
+                     <th>FREE OF COST</th>
                  </tr>
              </table>
          </div>
