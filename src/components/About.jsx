@@ -4,7 +4,7 @@ function About(){
     return (
     <div className="first">
          <div className="insidefirst">
-         <img src="https://dss.nitc.ac.in/hostel/images/cc.jpg" alt="C hostel "></img>
+         <img src="https://thenitconnect.files.wordpress.com/2015/07/20150719015134.jpg" alt="C hostel "></img>
          </div>
          <div className="insidefirst2">
          <p>

@@ -13,7 +13,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color:lightgray;
+  background-color: rgb(241, 204, 129);
   position: fixed; 
   top: 0; 
   width: 100%; 
@@ -31,7 +31,7 @@ body {
 }
 
 .navbar a:hover {
-  background :gray;
+  background :rgb(241, 204, 129);
   color: black;
   font-size:1vw
 }
@@ -55,7 +55,7 @@ body {
 
 
 .first{
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   border-radius: 5px;
   padding: 30px 20px;
   width: 1400px;
@@ -125,7 +125,7 @@ body {
   width: 30%;
   height: 100%;
   float: left;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   font-size:1vw
 }
 
@@ -135,7 +135,7 @@ body {
   height: 100%;
   margin-left:5%;
   margin-top:0px;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   float:left;
   font-size:1vw
 }
@@ -146,14 +146,14 @@ body {
   height: 100%;
   margin-left: 70%;
   margin-top:0px;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   font-size:1vw
 }
 
 .fourth{
   width: 1400px;
   height:300px;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   border-radius: 5px;
   padding: 30px 20px;
   margin: 10px 50px;
@@ -172,7 +172,7 @@ body {
   width: 28%;
   height: 100%;
   float: left;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   font-size:1vw
 }
 
@@ -182,7 +182,7 @@ body {
   height: 100%;
   margin-left:8%;
   margin-top:0px;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   float:left;
   font-size:1vw
 }
@@ -193,7 +193,7 @@ body {
   height: 100%;
   margin-left: 72%;
   margin-top:0px;
-  background-color:lightgray;
+  background-color:rgb(241, 204, 129);
   font-size:1vw
 }
 
